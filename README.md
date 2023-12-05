@@ -1,4 +1,4 @@
-# Backup and Restore Script for Kubernetes
+# MySQL Backup and Restore Script for Kubernetes
 
 This repository contains the `backup_restore_script.sh`, a shell script designed to facilitate the backup and restoration of MySQL databases in Kubernetes environments using AWS S3 for storage.
 
